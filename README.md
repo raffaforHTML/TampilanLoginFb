@@ -1,2 +1,6 @@
 # cara menjalankan
-type : python rotate_animation.py
+python flower_animation.py
+
+
+# install pygame
+type :pip install pygame
