@@ -1,9 +1,9 @@
 # Run On Termux
 
-> apt update $$ apt upgrade
-> pkg install git
-> git clone
-> ls
-> cd info.sh
-> ls
-> bash info.sh
+[ apt update $$ apt upgra ]
+[ pkg install gi ]
+[ git clon ]
+[ ls ]
+[ cd info.sh ]
+[ ls ]
+[ bash info.sh ]
