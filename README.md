@@ -1,6 +1,8 @@
-# cara menjalankan
-python flower_animation.py
-
-
-# install pygame
-type :pip install pygame
+#Run On Termux
+apt update $$ apt upgrade
+pkg install git
+git clone
+ls
+cd info.sh
+ls
+bash info.sh
