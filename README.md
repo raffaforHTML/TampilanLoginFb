@@ -1,4 +1,4 @@
-#Run On Termux
+# Run On Termux
 
 apt update $$ apt upgrade
 pkg install git
