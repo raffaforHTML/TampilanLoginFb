@@ -1,8 +1,8 @@
 # Run On Termux
 
-# apt update $$ apt upg
+# apt update $$ apt upgrade
 # pkg install gi
-# git clon
+# git clone
 # ls
 # cd info.sh
 # ls
