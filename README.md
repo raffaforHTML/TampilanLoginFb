@@ -1,9 +1,5 @@
-# Run On Termux
+# login.html
+tampilan login menggunakan HTML
 
-# apt update $$ apt upgrade
-# pkg install gi
-# git clone
-# ls
-# cd info.sh
-# ls
-# bash info.sh
+# style.css
+tampilan login menggunakan style CSS
